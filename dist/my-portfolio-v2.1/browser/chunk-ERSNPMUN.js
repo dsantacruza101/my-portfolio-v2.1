@@ -1,0 +1,1 @@
+import{Pa as a,Qa as i,Z as o,cb as r,ib as p}from"./chunk-R6DKGKPX.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-login-page"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,l){n&1&&(a(0,"p"),r(1,"login-page works!"),i())}});let t=e;return t})();export{d as default};

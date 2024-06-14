@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{h as s,l as u}from"./chunk-IX5CPB7B.mjs";import"./chunk-7CIYOEVD.mjs";import{Oa as r,Pa as a,Qa as i,V as n,bb as p,hb as l}from"./chunk-5DECXDHL.mjs";import"./chunk-NDYDZJSS.mjs";var g=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-layout-page"]],standalone:!0,features:[l],decls:3,vars:0,template:function(o,d){o&1&&(r(0,"p"),p(1,"layout-page works!"),a(),i(2,"router-outlet"))},dependencies:[u,s]});let t=e;return t})();export{g as default};

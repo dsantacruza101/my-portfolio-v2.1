@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{Oa as r,Pa as i,V as n,bb as a,hb as p}from"./chunk-5DECXDHL.mjs";import"./chunk-NDYDZJSS.mjs";var l=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-portfolio-projects"]],standalone:!0,features:[p],decls:2,vars:0,template:function(o,c){o&1&&(r(0,"p"),a(1,"portfolio-projects works!"),i())}});let t=e;return t})();export{l as default};

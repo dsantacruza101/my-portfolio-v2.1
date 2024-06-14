@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/auth",
+    "/auth/login",
+    "/myPortfolio",
+    "/myPortfolio/about",
+    "/myPortfolio/contact",
+    "/myPortfolio/projects",
+    "/myPortfolio/skills"
+  ]
+}

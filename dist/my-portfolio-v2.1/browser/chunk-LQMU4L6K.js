@@ -1,0 +1,1 @@
+import{Pa as a,Qa as i,Z as n,cb as r,ib as c}from"./chunk-R6DKGKPX.js";var l=(()=>{let t=class t{};t.\u0275fac=function(o){return new(o||t)},t.\u0275cmp=n({type:t,selectors:[["app-portfolio-contact"]],standalone:!0,features:[c],decls:2,vars:0,template:function(o,s){o&1&&(a(0,"p"),r(1,"portfolio-contact works!"),i())}});let e=t;return e})();export{l as default};

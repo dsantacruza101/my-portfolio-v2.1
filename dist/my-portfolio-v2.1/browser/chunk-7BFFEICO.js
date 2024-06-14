@@ -1,0 +1,1 @@
+import{Pa as i,Qa as a,Z as n,cb as r,ib as s}from"./chunk-R6DKGKPX.js";var c=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-portfolio-skils"]],standalone:!0,features:[s],decls:2,vars:0,template:function(o,p){o&1&&(i(0,"p"),r(1,"portfolio-skils works!"),a())}});let t=e;return t})();export{c as default};
