@@ -37,13 +37,13 @@
             "styles": [
               "src/styles.scss",
               {
-                "input": "src/lara-dark-teal.scss",
-                "bundleName": "lara-dark-teal",
+                "input": "src/aura-dark-green.scss",
+                "bundleName": "aura-dark-green",
                 "inject": false
               },
               {
-                "input": "src/lara-light-teal.scss",
-                "bundleName": "lara-light-teal",
+                "input": "src/aura-light-green.scss",
+                "bundleName": "aura-light-green",
                 "inject": false
               }            ],
             "scripts": [],

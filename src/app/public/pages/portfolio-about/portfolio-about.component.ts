@@ -11,7 +11,7 @@ import { ThemeService } from '../../../theme/theme.service';
 })
 export default class PortfolioAboutComponent implements OnInit{
 
-  public selectedTheme: string = 'lara-light-teal';
+  public selectedTheme: string = 'aura-light-green';
   public checked:boolean = false;
   private themeService = inject(ThemeService);
 
